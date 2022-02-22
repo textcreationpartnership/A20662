@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true report of a most famous victorie or Romane fact, atchieued by a certaine vessell, called the blacke galley of Dort vpon the thirtieth day of Nouember last, 1600. VVhich at that time tooke the admirall of the citie of Antwerpe, with seuen other shippes, all well furnished with munition for warre.</title>
+            <title>Warachtig verhael van het Romeynsch feyt, twelc die vande Swarte Galeye van Dordrecht aengerecht hebben voor de stat van Antwerpen. English.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1600</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20662</idno>
+            <idno type="STC">STC 7064</idno>
+            <idno type="STC">ESTC S117136</idno>
+            <idno type="EEBO-CITATION">99852351</idno>
+            <idno type="PROQUEST">99852351</idno>
+            <idno type="VID">17667</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20662)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 17667)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1135:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true report of a most famous victorie or Romane fact, atchieued by a certaine vessell, called the blacke galley of Dort vpon the thirtieth day of Nouember last, 1600. VVhich at that time tooke the admirall of the citie of Antwerpe, with seuen other shippes, all well furnished with munition for warre.</title>
+                  <title>Warachtig verhael van het Romeynsch feyt, twelc die vande Swarte Galeye van Dordrecht aengerecht hebben voor de stat van Antwerpen. English.</title>
+               </titleStmt>
+               <extent>[2], 3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[By S. Stafford?] for Cuthbert Burby: and are to be sold at his shop adioyning to the Royall Exchange,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1600.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>English translation of a pamphlet published the same year in Dordrecht.</note>
+                  <note>Uniform title from W.P.C. Knuttel, "Catalogus van de Pamfletten-Verzameling", I. 1152. Suggested printer from STC.</note>
+                  <note>Printer's name conjectured by STC.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Naval battles --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:17667:1"/>
+            <pb facs="tcp:17667:1"/>
+            <p>A True report of a moſt famous Victorie or Romane <hi>fact, atchieued by a certaine veſſell, called the</hi> blacke Galley of Dort, vpon the thirtieth day of Nouember laſt, 1600.</p>
+            <p>VVhich at that time tooke the Ad<g ref="char:EOLhyphen"/>mirall of the Citie of Antwerpe, with ſeuen other ſhippes, all well furniſhed with mu<g ref="char:EOLhyphen"/>nition for warre.</p>
+            <p>Imprinted at London for Cuthbert Burby: And are to be ſold at his ſhop adioyning <hi>to the Royall Exchange.</hi> 1600.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:17667:2"/>
+            <pb facs="tcp:17667:2"/>
+            <head>A true report of a moſt famous <hi>vic<g ref="char:EOLhyphen"/>torie, atchieued by a certain veſſell, called the black</hi> Galley of Dort, vpon the 30. day of Nouember laſt, 1600 which at that time tooke the Admirall of the Citie of Antwerpe, with ſeuen other ſhippes, all <hi>well furniſhed with munition for warre.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">C</seg>Onſidering the Lordes the generall Eſtates of <hi>Hol<g ref="char:EOLhyphen"/>land</hi> and <hi>Sealand,</hi> haue thought good to cauſe to be made and appoynted a Galley, to the ende that therewith, and with the ayde of ſome ſhips of war, they may hinder the Gal<g ref="char:EOLhyphen"/>lies of the Sluce, the which do daily co<g ref="char:cmbAbbrStroke">̄</g>mit great ſpoyle on the ſea: ſo it is, that by the conſent of the Lords the Generall Eſtates, there hath beene made and appoynted at <hi>Dort,</hi> a certaine Galley being well prouided, with all manner of munition ſeruing to the warre, and alſo well furniſhed with great Ordinance. This Galley was called the blacke Galley of <hi>Dort,</hi> the which being wel manned with men of warre of <hi>Dort</hi> afore<g ref="char:EOLhyphen"/>ſayd, was ſet forth towards <hi>Sealand,</hi> to the ende there to conuoy the Marchants ſhippes, which are to paſſe to<g ref="char:EOLhyphen"/>wards <hi>England, Fraunce, Scotland,</hi> and Eaſt <hi>Freeſland,</hi> or to any other places.</p>
+            <pb n="2" facs="tcp:17667:3"/>
+            <p>Immediately after, it happened that this aforeſayde black Gallie being at ſea, and ſeeing three Gallyes of the Sluce which had taken a ſhippe, which was compaſſed betwéene two Gallies, being determined to carrie the ſame into the Hauen of the Sluce, the ſayde blacke Galley hindred them of their purpoſe, and came preſently in all haſte to helpe the ſame ſhippe, diſcharging her Ordinance very vehe<g ref="char:EOLhyphen"/>mently at one of the ſayde Gallyes, ſo that ſhee did al<g ref="char:EOLhyphen"/>moſt vtterly ſpoyle the ſame, and made her gladde to ſlippe away. Then with all haſte following the other two Gal<g ref="char:EOLhyphen"/>lies which had taken the ſhip, ſhee ſo diſcharged her Ordi<g ref="char:EOLhyphen"/>nance at them, that they were conſtrained to leaue the ſhippe, and ſaue themſelues: ſo that the ſayd Galley of <hi>Dort</hi> did releaſe the ſhippe, and the thrée Gallies fledde a<g ref="char:EOLhyphen"/>way into the Sluce: howbeit, they were verie much enda<g ref="char:EOLhyphen"/>maged by the ſhot of the blacke Galley.</p>
+            <p>1600. betwéene the nine &amp; twentie, and thirtie dayes of the moneth of Nouember, the ſayde blacke Galley of <hi>Dort,</hi> with three or 4. Sloopes which were with her, vn<g ref="char:EOLhyphen"/>dertooke a woorthie fact before the Citie of <hi>Antwerpe,</hi> where they with a ſtout enterpriſe ſeyſed on the Admiralles ſhippe, which was well appoynted with Ordinance, hauing in her ſixteene braſſe péeces, and tenne iron caſt péeces of ordinance, with certaine ſtone caſt peeces, which Ordi<g ref="char:EOLhyphen"/>nance lay thrée rowes high: and the ſayde Admiralles ſhip is of the burden of about ninetie laſts, being ſo fayre a ſhip, that there is none like the ſame in all <hi>Holland</hi> and <hi>Sealand.</hi> Likewiſe they tooke alſo the ſhippe of <hi>Bruſſell,</hi> in the which were foure braſſe peeces of Ordinance, with the ſhippe of <hi>Mechelen,</hi> containing foure braſſe peeces: and moreouer, fiue conuoy ſhippes, containing euerie of them foure péeces of Ordinance, which 8. ſhippes appoynted as aforeſaide, were taken by the ſayde blacke Galley, with thrée or foure Sloopes which were with her, they being in daunger of
+<pb n="3" facs="tcp:17667:3"/> their liues: for when they paſſed by <hi>Oordam,</hi> thoſe of the Sconce thought them to bee Sloops, which carried muni<g ref="char:EOLhyphen"/>tion and prouant toward <hi>Hulſt</hi> in Flanders, but they were other Sloops, which they had not expected: but becauſe they tooke them to bee friendes, thoſe of <hi>Oordam</hi> did not diſcharge their Ordinance at them. And our Galley being paſt the Sconce, they preſently aboarded the Admirall. The Mari<g ref="char:EOLhyphen"/>ners whereof, ſome were ſlain, and ſome leapt ouer-boord and were drowned, except two boyes, which they brought with them.</p>
+            <p>Thus happened it with the ſayde ſhippe the Admirall, and with the ſhippe of <hi>Bruſſell,</hi> the ſhip of <hi>Mechelen,</hi> and the fiue other conuoy ſhippes, the which were brought to <hi>Flu<g ref="char:EOLhyphen"/>ſhing,</hi> where they lie together. The Burgars of <hi>Antwerpe</hi> were verie fearefull, and did ſhut their gates, without ope<g ref="char:EOLhyphen"/>ning them againe in two dayes, kéeping careful watch, fea<g ref="char:EOLhyphen"/>ring they were betrayed.</p>
+            <p>In this worthie victorie, they got the ſayde fayre ſhippe of the Admiralles, the ſhip of <hi>Bruſſell,</hi> and the ſayde ſhippe of <hi>Mechelen,</hi> and the ſayd fiue conuoy ſhippes, in which eight ſhippes were fiftie foure peeces of Ordinance, beſides certaine ſtone peeces, which were in the Admiralles. And this is the Galley, whereof men did often talke, ſaying that it would prooue loſt labour for this countrey: but it hath appeared to the contrarie, by this worthie fact happened, as is aforeſayd.</p>
+            <p>This worthie victorie haue thoſe of the blacke Galley obtained, with ſmall loſſe of their men, to witte, there were ſlaine in the winning of theſe eight ſhips foure of our men, and ſixe were hurt. Whatſoeuer they now are doing, with the helpe of God, the time will make manifeſt.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="poem">
+            <pb facs="tcp:17667:4"/>
+            <lg>
+               <l>MAny at the firſt with the Galley did flout,</l>
+               <l>And ſayd it was a fooliſh thing without doubt:</l>
+            </lg>
+            <lg>
+               <l>But hee is a foole that a thing will blame,</l>
+               <l>E're men haue giuen it any name.</l>
+            </lg>
+            <lg>
+               <l>Therefore I haue tearmed this a Romane fact,</l>
+               <l>Becauſe I eſteeme it to be a worthie act.</l>
+            </lg>
+            <lg>
+               <l>A wiſe man doth paſſe his iudgement after the concluſion:</l>
+               <l>But the foole will bring vs all in confuſion.</l>
+            </lg>
+            <pb facs="tcp:17667:4"/>
+         </div>
+      </back>
+   </text>
+</TEI>
